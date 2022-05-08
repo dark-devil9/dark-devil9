@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arya0077&label=Profile%20views&color=0e75b6&style=flat" alt="dark-devil9" /> </p>
 
-- 🌱 I’m currently learning **React.Js, C++**
+- 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [mrwow.tk](https://www.mrwow.tk/)
 
-- ⚡ Fun fact **JavaScript>>>>>>>>>Python**
+- ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
