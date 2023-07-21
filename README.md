@@ -12,9 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/satyamshukla_1904/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyamshukla_1904" height="30" width="40" /></a>
-<a href="https://discord.gg/fdexAMPN3q">
-  <img align="left" alt="Mr.Wow's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+
+<a href="https://twitter.com/satyam_1904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satyamshukla_1904" height="30" width="40" /></a>
 
 </p>
 
