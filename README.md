@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arya0077&label=Profile%20views&color=0e75b6&style=flat" alt="dark-devil9" /> </p>
 
-- 🌱 I’m currently learning **React.Js, C++**
+- 🌱 I’m currently learning **React.Js, C++, Python**
 
-- 👨‍💻 All of my projects are available at [mrwow.tk](https://www.mrwow.tk/)
+- 👨‍💻 All of my projects are available at [mrwow.tk](https://www.mrwow.tk/)&lpar;Temp-Unhosted&rpar;
 
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
 
