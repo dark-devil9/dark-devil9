@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arya0077&label=Profile%20views&color=0e75b6&style=flat" alt="dark-devil9" /> </p>
 
-- 🌱 I’m currently learning **React.Js, C++, Python**
+- 🌱 I’m currently learning **Node.JS , HTML , CSS , React.Js , C++, Python**
 
 - 👨‍💻 All of my projects are available at [mrwow.tk](https://www.mrwow.tk/)&lpar;Temp-Unhosted&rpar;
 
